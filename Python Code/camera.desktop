@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=camera
+Type=Application
+Categories=Application
+Icon=/home/pi/Desktop/icon/camera.png
+Exec=lxterminal --command "sudo python /home/pi/Desktop/camera/camera.py"
+Terminal=true
+StartupNotify=true
+
